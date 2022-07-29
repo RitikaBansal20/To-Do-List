@@ -14,3 +14,5 @@ Jquery 3.6.0
 ## Demo
 Here is a working live demo :https://ritikabansal20.github.io/To-Do-List/
 ## Site
+![Screenshot (4608)](https://user-images.githubusercontent.com/95993515/181799897-b3938e3f-dc62-4796-af89-2714610f156b.png)
+
